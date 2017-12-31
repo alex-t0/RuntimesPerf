@@ -8,11 +8,11 @@ See more: https://en.wikipedia.org/wiki/Methods_of_computing_square_roots
 
 # Results
 
-| Runtime       | Time, seconds |
-| ------------- |:-------------:|
-| Clang++       | 0.3415        |
-| GCC C++       | 0.3513        |
-| Java          | 1.1657        |
-| C#            | 1.3144        |
-| PHP           | 4.9700        |
-| Python        | 20.2664 (WTF!)|
+| Runtime       | Time, seconds | Implementation        |
+| ------------- |:-------------:|------------------------
+| Clang++       | 0.3415        | 3.8.0-2ubuntu4        |
+| GCC C++       | 0.3513        | 5.4.0 20160609        |
+| Java          | 1.1657        | Oracle 9.0.1          |
+| C#            | 1.3144        | .Net Core 2.0.0       |
+| PHP           | 4.9700        | 7.2.0                 |
+| Python        | 20.2664 (WTF!)| 3.5.2                 |
