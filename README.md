@@ -10,8 +10,8 @@ See more: https://en.wikipedia.org/wiki/Methods_of_computing_square_roots
 
 | Runtime       | Time, seconds |
 | ------------- |:-------------:|
-| GCC C++       | 0.3513        |
 | Clang++       | 0.3415        |
+| GCC C++       | 0.3513        |
 | Java          | 1.1657        |
 | C#            | 1.3144        |
 | PHP           | 4.9700        |
