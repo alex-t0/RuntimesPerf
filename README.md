@@ -12,9 +12,9 @@ See more: https://en.wikipedia.org/wiki/Methods_of_computing_square_roots
 | ------------- |:---------------:|----------------------------
 | Clang++       | 0.3415          | 3.8.0-2ubuntu4            |
 | GCC C++       | 0.3513          | 5.4.0 20160609            |
+| Java          | 0.845           | Openjdk 11.0.4            |
 | PyPy Python   | 1.1483          | PyPy3.5 5.10.0 x86_64     |
-| Java          | 1.1657          | Oracle 9.0.1              |
 | C#            | 1.3144          | .Net Core 2.0.0           |
 | PHP           | 4.9700          | 7.2.0                     |
-| Python        | 20.2664 (WTF!)  | 3.5.2                     |
+| Python        | 11.788 (WTF!)   | 3.6.8                     |
 | Typescript    | 94.831 (WTF^2!) | Nodejs 10.16.1, tsc 3.5.3 |
