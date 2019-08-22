@@ -1,7 +1,7 @@
 class SquareRoot {
     private num: number;
     private precision: number;
-    
+
     constructor(N: number, precision?: number) {
         precision = precision || 0.00000001;
 
@@ -17,7 +17,7 @@ class SquareRoot {
 
         while (copyForCountDigits > 0){
             divisionDigits.unshift(copyForCountDigits);
-            copyForCountDigits /= 10;
+            copyForCountDigits = Math.floor(copyForCountDigits / 10);
             countDigits++;
         }
 
