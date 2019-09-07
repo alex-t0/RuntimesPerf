@@ -8,13 +8,14 @@ See more: https://en.wikipedia.org/wiki/Methods_of_computing_square_roots
 
 # Results
 
-| Runtime       | Time, seconds   | Implementation            |
-| ------------- |:---------------:|----------------------------
-| Clang++       | 0.3415          | 3.8.0-2ubuntu4            |
-| GCC C++       | 0.3513          | 5.4.0 20160609            |
-| Java          | 0.848           | Openjdk 12.0.2            |
-| C#            | 0.968           | .Net Core 2.1.801         |
-| PyPy Python   | 1.1483          | PyPy3.5 5.10.0 x86_64     |
-| Typescript    | 1.676           | Nodejs 10.16.1, tsc 3.5.3 |
-| PHP           | 4.9700          | 7.2.0                     |
-| Python        | 11.788 (WTF!)   | 3.6.8                     |
+| Runtime       | Time, seconds   | Implementation                |
+| ------------- |:---------------:|--------------------------------
+| Clang++       | 0.3415          | 3.8.0-2ubuntu4                |
+| GCC C++       | 0.3513          | 5.4.0 20160609                |
+| KotlinJVM     | 0.834           | Openjdk 12.0.2, Kotlin 1.3.50 |
+| Java          | 0.848           | Openjdk 12.0.2                |
+| C#            | 0.968           | .Net Core 2.1.801             |
+| PyPy Python   | 1.1483          | PyPy3.5 5.10.0 x86_64         |
+| Typescript    | 1.676           | Nodejs 10.16.1, tsc 3.5.3     |
+| PHP           | 4.9700          | 7.2.0                         |
+| Python        | 11.788 (WTF!)   | 3.6.8                         |
