@@ -2,7 +2,7 @@ import kotlin.math.absoluteValue
 import kotlin.math.pow
 import kotlin.system.measureTimeMillis
 
-class SquareRoot constructor(private val Num: Int, private val Precision: Double = 0.00000001) {
+class SquareRootNative constructor(private val Num: Int, private val Precision: Double = 0.00000001) {
 
     private fun calculateEstimation(): Int {
         var copyForCountDigits : Int = Num
@@ -53,7 +53,7 @@ fun main(args: Array<String>) {
 
     val elapsed = measureTimeMillis {
         for (i in 0 until N) {
-            results[i] = SquareRoot(i).sqrt()
+            results[i] = SquareRootNative(i).sqrt()
         }
     }
 
