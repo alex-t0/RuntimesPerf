@@ -62,6 +62,8 @@ $testObject = new SquareRoot(7901076544);
 $result = $testObject->Sqrt();
 echo $result."\n";*/
 
+ini_set('memory_limit', '-1');
+
 $N = 5000000;
 $results = array();
 $time_start = microtime(true);
