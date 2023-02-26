@@ -11,8 +11,9 @@ See more: https://en.wikipedia.org/wiki/Methods_of_computing_square_roots
 | Runtime       | Time, seconds   | Implementation                |
 | ------------- |:---------------:|--------------------------------
 | Clang++       | 0.2216          | 10.0.0-4ubuntu1               |
-| Clang++       | 0.3415          | 3.8.0-2ubuntu4                |
 | GCC C++       | 0.2288          | Ubuntu 9.3.0-17ubuntu1~20.04  |
+| GO            | 0.2870          | go1.20.1 linux/amd64          |
+| Clang++       | 0.3415          | 3.8.0-2ubuntu4                |
 | GCC C++       | 0.3513          | 5.4.0 20160609                |
 | KotlinJVM     | 0.820           | Openjdk 17.0.1, Kotlin 1.6.10 |
 | KotlinJVM     | 0.834           | Openjdk 12.0.2, Kotlin 1.3.50 |
