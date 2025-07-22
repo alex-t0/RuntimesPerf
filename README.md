@@ -27,3 +27,4 @@ See more: https://en.wikipedia.org/wiki/Methods_of_computing_square_roots
 | PHP           | 4.9700          | 7.2.0                         |
 | Python        | 10.2644 (WTF!)  | 3.8.10                        |
 | Python        | 11.788 (WTF!)   | 3.6.8                         |
+| 1cv8.3        | 78 (WTF!^2)     | 8.3.27                        |
