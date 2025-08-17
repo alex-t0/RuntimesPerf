@@ -10,6 +10,7 @@ See more: https://en.wikipedia.org/wiki/Methods_of_computing_square_roots
 
 | Runtime       | Time, seconds   | Implementation                |
 | ------------- |:---------------:|--------------------------------
+| CUDA          | 0.005718        | NVidia CUDA Toolkit 13.0      |
 | Clang++       | 0.2216          | 10.0.0-4ubuntu1               |
 | GCC C++       | 0.2288          | Ubuntu 9.3.0-17ubuntu1~20.04  |
 | GO            | 0.2870          | go1.20.1 linux/amd64          |
